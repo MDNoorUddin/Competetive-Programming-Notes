@@ -1,0 +1,8 @@
+#sum of consequtive numbers = n*(n+1)/2
+#if a summation is given or number is given then what will be the n of the rule=
+  ##sum=sum*2
+  ##n=sqrt(sum)
+  ##now a new contidition will check
+    ###run new n*(n+1)/2 to check the actual summation
+    ###if it is less than the actual summation then add 1 to the n.
+    ###this is the actual answer.
